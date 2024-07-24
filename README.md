@@ -108,7 +108,3 @@ Exception thrown when a cyclic dependency is detected.
     - Constructs a `CyclicDependencyException` with the specified message.
     - Parameters:
         - `message`: The detail message.
-
-## Example
-
-Given the following directory structure and file contents:
